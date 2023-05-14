@@ -10,7 +10,7 @@ $(window).load(function(){
 $(function(){
     jQuery(document).ready(function() {
 		$('body').backstretch([
-	 		 "images/jmfinal.gif",
+	 		 "images/flame.gif",
 	 			], 	{duration: 3200, fade: 1300});
 		});
 })
